@@ -5,7 +5,7 @@ HTML_PAGE = """<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="utf-8">
-    <title>Bank Portal - Dang ky tai khoan</title>
+    <title>Bank Portal - Dang ky tai khoan - Test</title>
     <style>
         body { 
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
