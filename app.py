@@ -62,11 +62,11 @@ HTML_PAGE = """<!DOCTYPE html>
     <div class="card">
         <h2>🏦 Đăng ký tài khoản</h2>
         <div class="form-group">
-            <label for="username">Tên đăng nhập (Username):</label>
+            <label for="username">Tên đăng nhập (username):</label>
             <input type="text" id="username" placeholder="Nhập username...">
         </div>
         <div class="form-group">
-            <label for="password">Mật khẩu (Password):</label>
+            <label for="password">Mật khẩu (password):</label>
             <input type="password" id="password" placeholder="Nhập password...">
         </div>
         <button onclick="register()">Tạo tài khoản</button>
