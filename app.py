@@ -60,7 +60,7 @@ HTML_PAGE = """<!DOCTYPE html>
 </head>
 <body>
     <div class="card">
-        <h2>🏦 Đăng ký tài khoản</h2>
+        <h2>🏦 Đăng ký tài khoản - Test</h2>
         <div class="form-group">
             <label for="username">Tên đăng nhập (username):</label>
             <input type="text" id="username" placeholder="Nhập username...">
